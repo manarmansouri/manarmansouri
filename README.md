@@ -3,7 +3,7 @@
 <h3 align="center">CS Student from Algeria | Exploring Networks & Cybersecurity</h3>
 
 <p align="center">
-  <img src="[https://media.tenor.com/YOUR-DIRECT-GIF-LINK.gif](https://tenor.com/fr/view/lady-bird-saoirse-ronan-christine-mc-pherson-beanie-feldstein-julianne-steffans-gif-20655361)" width="220"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
 </p>
 
 ---
@@ -15,8 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   </a>
@@ -44,5 +43,4 @@
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   </a>
-
-</div>
+</p>
