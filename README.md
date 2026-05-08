@@ -3,7 +3,7 @@
 <h3 align="center">CS Student from Algeria | Exploring Networks & Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://tenor.com/byPy9.gif" width="220"/>
+  <img src="[https://tenor.com/byPy9.gif](https://tenor.com/byPy9.gif)" width="220"/>
 </p>
 
 ---
