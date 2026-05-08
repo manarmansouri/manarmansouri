@@ -3,7 +3,7 @@
 <h3 align="center">CS Student from Algeria | Exploring Networks & Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/YOUR-DIRECT-GIF-LINK.gif" width="220"/>
+  <img src="[https://media.tenor.com/YOUR-DIRECT-GIF-LINK.gif](https://tenor.com/fr/view/lady-bird-saoirse-ronan-christine-mc-pherson-beanie-feldstein-julianne-steffans-gif-20655361)" width="220"/>
 </p>
 
 ---
