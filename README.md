@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mnr</h1>
+<h1 align="center">Hi , I'm Mnr</h1>
 
 <h3 align="center">CS Student from Algeria | Exploring Networks & Cybersecurity</h3>
 
@@ -8,8 +8,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Networking fundamentals (TCP/IP, DNS, HTTP), Linux & command line**
-- 📫 How to reach me **manar.mansouri1@outlook.com**
+- this is how to reach me **manar.mansouri1@outlook.com**
 
 ---
 
